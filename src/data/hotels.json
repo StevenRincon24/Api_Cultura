@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Grand Hotel",
+    "contact": "+1-234-567-8900",
+    "address": "123 Main Street, City, Country",
+    "imageUrl": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/TBF3OLDXRVFA5CBDDVOJ3HCUYI.jpg",
+    "id": "1741227743754",
+    "createdAt": "2025-03-06T02:22:23.754Z"
+  },
+  {
+    "name": "Nobsa Colonial",
+    "contact": "555555",
+    "address": "Nobsa avenida",
+    "imageUrl": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/TBF3OLDXRVFA5CBDDVOJ3HCUYI.jpg",
+    "id": "1741227875785",
+    "createdAt": "2025-03-06T02:24:35.785Z"
+  },
+  {
+    "name": "Nobsa Colonial",
+    "contact": "555555",
+    "address": "Nobsa avenida",
+    "imageUrl": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/TBF3OLDXRVFA5CBDDVOJ3HCUYI.jpg",
+    "id": "1741228171251",
+    "createdAt": "2025-03-06T02:29:31.251Z"
+  },
+  {
+    "name": "Nobsa Colonial1",
+    "contact": "555555wq",
+    "address": "Nobsa avenida",
+    "imageUrl": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/TBF3OLDXRVFA5CBDDVOJ3HCUYI.jpg",
+    "id": "1741228670856",
+    "createdAt": "2025-03-06T02:37:50.856Z"
+  },
+  {
+    "name": "sdas",
+    "contact": "asda",
+    "address": "asdas",
+    "imageUrl": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/TBF3OLDXRVFA5CBDDVOJ3HCUYI.jpg",
+    "id": "1741229179949",
+    "createdAt": "2025-03-06T02:46:19.949Z"
+  },
+  {
+    "name": "Nobsa colonial",
+    "contact": "555555",
+    "address": "Centro de Nobsa",
+    "imageUrl": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/TBF3OLDXRVFA5CBDDVOJ3HCUYI.jpg",
+    "id": "1741232053619",
+    "createdAt": "2025-03-06T03:34:13.619Z"
+  },
+  {
+    "name": "Hotel Punta larga",
+    "contact": "31212412413",
+    "address": "Punta Larga",
+    "id": "1741270686870",
+    "createdAt": "2025-03-06T14:18:06.870Z"
+  },
+  {
+    "name": "Hotel Nobsa",
+    "contact": "1321sdasad",
+    "address": "dsffsfds",
+    "id": "1741270945415",
+    "createdAt": "2025-03-06T14:22:25.415Z"
+  },
+  {
+    "name": "Hotel Test",
+    "contact": "311231",
+    "address": "Nobsa",
+    "id": "1741295160027",
+    "createdAt": "2025-03-06T21:06:00.027Z"
+  },
+  {
+    "name": "sfdsf",
+    "contact": "dfsdsf",
+    "address": "asadsasd",
+    "id": "1742222954187",
+    "createdAt": "2025-03-17T14:49:14.187Z"
+  }
+]
